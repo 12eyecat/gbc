@@ -5,3 +5,7 @@
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 - [Lecture Summary](comp1238.md)
+- [Assignment Repository](https://github.com/12eyecat/gbc)
+
+GBC email: Sarah.Kim3@georgebrown.ca
+My repo URL: https://github.com/12eyecat/gbc
